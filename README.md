@@ -60,8 +60,3 @@ Do not use it for malicious purposes. Misuse of this code may violate laws and l
 ## Legal and Ethical Use
 - Allowed: Research, self-education, learning about security.
 - Forbidden: Installing on someone else's computer without consent.
-
----
-
-## License
-This project is released under the MIT License.
